@@ -1,1 +1,1 @@
-# Curriculo
+Projeto de currículo para aula de Programação Web do curso de Engenharia da computação.
